@@ -9,10 +9,8 @@
               v-model="codePostal"
               type="text"
               class="form-control"
-              id="code"
-              aria-describedby="emailHelp"
-              placeholder="Ex: 35000"
-            >
+              id="code"              
+              placeholder="Ex: 35000">
             <small id="code" class="form-text text-muted">Saisssiez un code postal</small>
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
